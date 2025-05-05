@@ -1,0 +1,7 @@
+user input: C:\Users\nur-s\Documents\SXI\Tools\hayabusa-3.2.0-win-x64\hayabusa-3.2.0-win-x64.exe json-timeline -d ../../BFI/HQ-AGN-072505/Logs/winevt/Logs/ -L -o timeline.jsonl -w -p verbose
+[WARN] fail to read file: C:\Users\nur-s\Documents\SXI\Tools\hayabusa-3.2.0-win-x64\rules\sigma\builtin\powershell\powershell_classic\posh_pc_tamper_windows_defender_set_mp.yml
+Operation did not complete successfully because the file contains a virus or potentially unwanted software. (os error 225) 
+[WARN] fail to read file: C:\Users\nur-s\Documents\SXI\Tools\hayabusa-3.2.0-win-x64\rules\sigma\builtin\powershell\powershell_script\posh_ps_tamper_windows_defender_set_mp.yml
+Operation did not complete successfully because the file contains a virus or potentially unwanted software. (os error 225) 
+Failed to open evtx file: ../../BFI/HQ-AGN-072505/Logs/winevt/Logs/AirSpaceChannel.evtx
+Failed to open evtx file: ../../BFI/HQ-AGN-072505/Logs/winevt/Logs/Microsoft-RMS-MSIPC%4Debug.evtx

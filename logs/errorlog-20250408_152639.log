@@ -1,0 +1,3 @@
+user input: hayabusa-3.2.0-win-x64.exe csv-timeline -d C:\Users\nur-s\Documents\SXI\BFI\HQ-AGN-072505\Logs\winevt\Logs -H HQ-AGN-072505.html -o hayabusa-HQ-AGN-072505.csv
+Failed to open evtx file: C:\Users\nur-s\Documents\SXI\BFI\HQ-AGN-072505\Logs\winevt\Logs\AirSpaceChannel.evtx
+Failed to open evtx file: C:\Users\nur-s\Documents\SXI\BFI\HQ-AGN-072505\Logs\winevt\Logs\Microsoft-RMS-MSIPC%4Debug.evtx
